@@ -17,6 +17,8 @@
     "eslint": "8.39.0",
     "eslint-config-next": "13.3.1",
     "firebase": "^9.20.0",
+    "firebase-admin": "^11.9.0",
+    "firebase-functions": "^4.4.0",
     "jotai": "^2.0.4",
     "next": "13.3.1",
     "react": "18.2.0",
